@@ -1,0 +1,14 @@
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\bin\Debug\net9.0\lib\x64\AIMZlib.lib
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\bin\Debug\net9.0\lib\x64\geo.lib
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\bin\Debug\net9.0\lib\x64\NYCgeo.lib
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\bin\Debug\net9.0\GeoXWrapperLib.deps.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\bin\Debug\net9.0\GeoXWrapperLib.dll
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\bin\Debug\net9.0\GeoXWrapperLib.pdb
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\GeoXWrapperLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\GeoXWrapperLib.AssemblyInfoInputs.cache
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\GeoXWrapperLib.AssemblyInfo.cs
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\GeoXWrapperLib.csproj.CoreCompileInputs.cache
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\GeoXWrapperLib.dll
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\refint\GeoXWrapperLib.dll
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\GeoXWrapperLib.pdb
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\ref\GeoXWrapperLib.dll
