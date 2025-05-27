@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace GeoXWrapperTest.Model
 {
-    public class GeocallResponse<X,Y>
+    public class GeocallResponse<X, Y>
     {
         public X display { get; set; }
         public Y root { get; set; }
+
     }
 }

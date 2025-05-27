@@ -15,7 +15,7 @@ namespace GeoXWrapperTest.Model.Structs
         public string StNameLength { get; set; }
         public string Zip { get; set; }
         public string Unit { get; set;  }
-
+        public string NodeId { get; set; }
         public string Freeform => $"{AddrNo} {StName}";
 
         public AddrInput(string addrNo)
@@ -23,7 +23,7 @@ namespace GeoXWrapperTest.Model.Structs
             AddrNo = addrNo;
         }
 
-        public AddrInput(string boro, string addrNo, string sortFormatAddrNo, string stName, string stNameLength, string zip, string unit)
+        public AddrInput(string boro, string addrNo, string sortFormatAddrNo, string stName, string stNameLength, string zip, string unit, string nodeId)
         {
             Boro = boro;
             AddrNo = addrNo;
@@ -32,6 +32,7 @@ namespace GeoXWrapperTest.Model.Structs
             StNameLength = stNameLength;
             Zip = zip;
             Unit = unit;
+            NodeId = nodeId;
         }
 
         public override string ToString() => $"{Boro}/{Zip} | {AddrNo} [{SortFormatAddrNo}] {StName} - {Unit}";

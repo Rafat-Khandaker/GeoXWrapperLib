@@ -41,7 +41,8 @@ namespace GeoXWrapperTest.Helper
                                             stName: "Broadway",
                                             stNameLength: "4",
                                             zip: "10271",
-                                            unit: "30A"
+                                            unit: "30A",
+                                            nodeId: "0027962"
                                         ), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function"+ReturnFunctionCode(code), "Function"+ReturnFunctionCode(code)+"Response1.json"))
 
                         };
@@ -55,7 +56,8 @@ namespace GeoXWrapperTest.Helper
                                             stName: "Grand Concourse",
                                             stNameLength: "6",
                                             zip: "10451",
-                                            unit: "123"
+                                            unit: "123",
+                                            nodeId: "0027963"
                                         ), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function"+ReturnFunctionCode(code), "Function"+ReturnFunctionCode(code)+"Response2.json"))
 
                         };
@@ -69,7 +71,8 @@ namespace GeoXWrapperTest.Helper
                                             stName: "Atlantic Ave",
                                             stNameLength: "32",
                                             zip: "11217",
-                                            unit: "A"
+                                            unit: "A",
+                                            nodeId: "0027964"
                                         ), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function"+ReturnFunctionCode(code), "Function"+ReturnFunctionCode(code)+"Response3.json"))
 
                          };
@@ -82,7 +85,8 @@ namespace GeoXWrapperTest.Helper
                                             stName: "Queens Blvd",
                                             stNameLength: "33",
                                             zip: "11373",
-                                            unit: "Z2"
+                                            unit: "Z2",
+                                            nodeId: "0027965"
                                         ), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function"+ReturnFunctionCode(code), "Function"+ReturnFunctionCode(code)+"Response4.json"))
 
                         };
@@ -95,7 +99,8 @@ namespace GeoXWrapperTest.Helper
                                             stName: "Seaview Ave",
                                             stNameLength: "99",
                                             zip: "10305",
-                                            unit: "99"
+                                            unit: "99",
+                                            nodeId: "0027966"
                                         ), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function"+ReturnFunctionCode(code), "Function"+ReturnFunctionCode(code)+"Response5.json"))
 
                         };
@@ -137,6 +142,8 @@ namespace GeoXWrapperTest.Helper
                     return "1N";
                 case FunctionCode.F2:
                     return "2";
+                case FunctionCode.F2Node:
+                    return "2Node";
                 case FunctionCode.F2W:
                     return "2W";
                 case FunctionCode.F3:

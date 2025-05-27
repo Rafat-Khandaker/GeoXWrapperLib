@@ -186,5 +186,25 @@ namespace GeoXWrapperTest.Service
 
         }
 
+        public GeocallResponse<F2Display, F2Response> Function2Node(FunctionInput input)
+        {
+            Wa1 wa1 = new Wa1
+            {
+                in_func_code = "2W",
+                in_platform_ind = "C",
+                in_xstreet_names_flag = "E",
+
+                in_node = input.NodeId ?? string.Empty
+            };
+            Wa2F2w wa2f2w = new Wa2F2w();
+
+            GeoCaller.GeoCall(ref wa1, ref wa2f2w);
+
+            return new GeocallResponse<F2Display, F2Response>
+            {
+                display = new F2Display(wa1, wa2f2w, GeoCaller),
+                root = null
+            };
+        }
     }
 }

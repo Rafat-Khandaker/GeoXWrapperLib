@@ -1,7 +1,9 @@
 ﻿using GeoXWrapperLib;
 using GeoXWrapperTest.Helper;
 using GeoXWrapperTest.Model;
+using GeoXWrapperTest.Model.Display;
 using GeoXWrapperTest.Model.Enum;
+using GeoXWrapperTest.Model.Response;
 using GeoXWrapperTest.Model.Structs;
 using GeoXWrapperTest.Service;
 using GeoXWrapperTest.Service.Contracts;
@@ -221,6 +223,29 @@ namespace GeoXWrapperTest
 
             Assert.AreEqual(actual, expected);
         }
+
+        public static IEnumerable<object[]> F2Node_AddrInputs => TestResponseHelper.AddrInputs_Generator(FunctionCode.F2Node); 
+ 
+        [TestMethod]
+        [DynamicData(nameof(F2Node_AddrInputs), DynamicDataSourceType.Property)]
+        public void Function2Node(AddrInput input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.Function2Node(new FunctionInput{ NodeId = input.NodeId }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_2Node", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
 
     }
 }

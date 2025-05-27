@@ -14,6 +14,7 @@ namespace GeoXWrapperTest.Model.Enum
         F1R,
         FAP,
         F2,
+        F2Node,
         F2W,
         F3,
         F3C,

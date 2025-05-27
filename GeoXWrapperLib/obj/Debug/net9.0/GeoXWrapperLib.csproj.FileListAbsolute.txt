@@ -12,3 +12,4 @@ C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\Ge
 C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\refint\GeoXWrapperLib.dll
 C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\GeoXWrapperLib.pdb
 C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\ref\GeoXWrapperLib.dll
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperLib\obj\Debug\net9.0\GeoXWrapperLib.sourcelink.json

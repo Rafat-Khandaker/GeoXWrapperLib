@@ -18,6 +18,7 @@ namespace GeoXWrapperTest.Model
         public string BrowseFlag{ get; set; } = "";
         public string Unit { get; set; } = "";
         public string Hns { get; set; } = "n";
+        public string NodeId { get; set; }
         public string RoadBed { get; set; } = "";
     }
 }
