@@ -79,13 +79,10 @@ public class B10sc
     /// <summary>B10scFromString converts a string to a B10sc object</summary>
     public void B10scFromString(string inString)
     {
-        if (inString.Length >= 11)
-        {
-            m_boro = inString.Substring(0, 1);
-            m_sc5 = inString.Substring(1, 5);
-            m_lgc = inString.Substring(6, 2);
-            m_spv = inString.Substring(8, 3);
-        }
+        try { m_boro = inString.Substring(0, 1); } catch { m_boro = string.Empty; }
+        try { m_sc5 = inString.Substring(1, 5); } catch { m_sc5 = string.Empty; }
+        try { m_lgc = inString.Substring(6, 2); } catch { m_lgc = string.Empty; }
+        try { m_spv = inString.Substring(8, 3); } catch { m_spv = string.Empty; }
     }
 
     /// <summary>Display creates a string of B10sc field values separated by a character</summary>
@@ -124,67 +121,92 @@ public class B10sc
     /// <value>Property for boro</value>
     public string boro
     {
-        get => m_boro;
+        get
+        {
+            return m_boro;
+        }
         set
         {
-            var strlen = value.Length;
-            if (strlen > 1) strlen = 1;
-            m_boro = new string(' ', 1);
+            int strlen = value.Length;
+            if (strlen > 1)
+                strlen = 1;
+
+            m_boro = " ";
             if (strlen > 0)
             {
-                m_boro = value.Substring(0, strlen);
+                // The equivalent of Mid for strings in C# is assigning a substring to a specific index.
+                m_boro = value.Substring(0, strlen).PadRight(1, ' ');
             }
         }
     }
 
+
     /// <value>Property for sc5</value>
     public string sc5
     {
-        get => m_sc5;
+        get
+        {
+            return m_sc5;
+        }
         set
         {
-            var strlen = value.Length;
-            if (strlen > 5) strlen = 5;
-            m_sc5 = new string(' ', 5);
+            int strlen = value.Length;
+            if (strlen > 5)
+                strlen = 5;
+
+            m_sc5 = "00000";
             if (strlen > 0)
             {
-                m_sc5 = new string('0', 5);
+                // The equivalent of Mid for strings in C# is assigning a substring to a specific index.
                 m_sc5 = m_sc5.Substring(0, 5 - strlen) + value.Substring(0, strlen);
             }
         }
     }
 
+
     /// <value>Property for lgc</value>
     public string lgc
     {
-        get => m_lgc;
+        get
+        {
+            return m_lgc;
+        }
         set
         {
-            var strlen = value.Length;
-            if (strlen > 2) strlen = 2;
-            m_lgc = new string(' ', 2);
+            int strlen = value.Length;
+            if (strlen > 2)
+                strlen = 2;
+
+            m_lgc = "00";
             if (strlen > 0)
             {
-                m_lgc = new string('0', 2);
+                // Replace Mid with Substring and adjust the string
                 m_lgc = m_lgc.Substring(0, 2 - strlen) + value.Substring(0, strlen);
             }
         }
     }
 
+
     /// <value>Property for spv</value>
     public string spv
     {
-        get => m_spv;
+        get
+        {
+            return m_spv;
+        }
         set
         {
-            var strlen = value.Length;
-            if (strlen > 3) strlen = 3;
-            m_spv = new string(' ', 3);
+            int strlen = value.Length;
+            if (strlen > 3)
+                strlen = 3;
+
+            m_spv = "000";
             if (strlen > 0)
             {
-                m_spv = new string('0', 3);
+                // Replace Mid with Substring and adjust the string
                 m_spv = m_spv.Substring(0, 3 - strlen) + value.Substring(0, strlen);
             }
         }
     }
+
 }

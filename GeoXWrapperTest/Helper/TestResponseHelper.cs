@@ -8,7 +8,7 @@ namespace GeoXWrapperTest.Helper
     public static class TestResponseHelper
     {
         
-        public static IEnumerable<object[]> AddrInputs_Generator(FunctionCode code)
+        public static IEnumerable<object[]> Inputs_Generator(FunctionCode code)
         {
             switch (code) 
             {
@@ -30,6 +30,35 @@ namespace GeoXWrapperTest.Helper
                         yield return new object[] { new AddrInput(addrNo: "120a"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response5.json")) };
                         break;
                 };
+                case FunctionCode.F2:
+                {
+                        yield return new object[] { new IntrsctInput("1", "Broadway", "Stone St"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response1.json")) };
+                        yield return new object[] { new IntrsctInput("2", "Morris Ave", "E 144th St"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response2.json")) };
+                        yield return new object[] { new IntrsctInput("3", "Prospect Park West", "Prospect Park Southwest"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response3.json")) };
+                        yield return new object[] { new IntrsctInput("4", "Main St", "Roosevelt Ave"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response4.json")) };
+                        yield return new object[] { new IntrsctInput("5", "Seaview Ave", "Mason Ave"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response5.json")) };
+                        break;
+                };
+                case FunctionCode.F3:
+                    {
+                        yield return new object[] { new CrossStreetInputs("1", "Broadway", "Stone St", "Beaver St", "E"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response1.json")) };
+                        yield return new object[] { new CrossStreetInputs("2", "E 181st St", "Daly Ave", "Vyse Ave", "N"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response2.json")) };
+                        yield return new object[] { new CrossStreetInputs("3", "5th Ave", "30th St", "29th St", "N"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response3.json")) };
+                        yield return new object[] { new CrossStreetInputs("4", "147th St", "68th Ave", "68th Rd", "E"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response4.json")) };
+                        yield return new object[] { new CrossStreetInputs("5", "Nome Ave", "Purdue St", "Rockne St", "N"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response5.json")) };
+                        break;
+                    };
+
+                case FunctionCode.F3C:
+                    {
+                        yield return new object[] { new CrossStreetInputs("1", "Broadway", "Stone St", "Beaver St", "E"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response1.json")) };
+                        yield return new object[] { new CrossStreetInputs("2", "E 181st St", "Daly Ave", "Vyse Ave", "N"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response2.json")) };
+                        yield return new object[] { new CrossStreetInputs("3", "5th Ave", "30th St", "29th St", "N"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response3.json")) };
+                        yield return new object[] { new CrossStreetInputs("4", "147th St", "68th Ave", "68th Rd", "E"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response4.json")) };
+                        yield return new object[] { new CrossStreetInputs("5", "Nome Ave", "Purdue St", "Rockne St", "N"), File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Results", "Function" + ReturnFunctionCode(code), "Function" + ReturnFunctionCode(code) + "Response5.json")) };
+                        break;
+                    }
+                    ;
                 default:
                 {
                         yield return new object[]

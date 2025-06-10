@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoXWrapperTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+541978b45fa3c39a7f174161538d908982fc9696")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d86c9ad999431d1efdc2bf8845f3dd13028a5ecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoXWrapperTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoXWrapperTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

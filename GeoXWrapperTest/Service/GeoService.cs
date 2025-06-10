@@ -186,7 +186,7 @@ namespace GeoXWrapperTest.Service
 
         }
 
-        public GeocallResponse<F2Display, F2Response> Function2Node(FunctionInput input)
+        public GeocallResponse<F2Display, F2Response> Function2(FunctionInput input)
         {
             Wa1 wa1 = new Wa1
             {
@@ -194,15 +194,77 @@ namespace GeoXWrapperTest.Service
                 in_platform_ind = "C",
                 in_xstreet_names_flag = "E",
 
-                in_node = input.NodeId ?? string.Empty
+                in_boro1 = ValidationHelper.ValidateBoroInput(input.Borough1),
+                in_stname1 = input.Street1?.Replace(" and ", " & ") ?? string.Empty,
+                in_boro2 = ValidationHelper.ValidateBoroInput(input.Borough2),
+                in_stname2 = input.Street2?.Replace(" and ", " & ") ?? string.Empty,
+                in_compass_dir = input.CompassFlag ?? string.Empty,
+                in_browse_flag = input.BrowseFlag ?? string.Empty
             };
             Wa2F2w wa2f2w = new Wa2F2w();
 
             GeoCaller.GeoCall(ref wa1, ref wa2f2w);
 
-            return new GeocallResponse<F2Display, F2Response>
+            var goatlike = new GeocallResponse<F2Display, F2Response>
             {
                 display = new F2Display(wa1, wa2f2w, GeoCaller),
+                root = null
+            };
+
+            if (string.Equals(wa1.out_grc, "03", StringComparison.CurrentCulture))
+            {
+                //Note: Node list & similar names list are readonly properties
+                F2Display f2Display = goatlike.display;
+
+                //B7Sc list and starting points
+                Dictionary<int, List<string>> b7scs = ValidationHelper.CreateNodeB7ScDictionary(wa2f2w.node_list, wa2f2w.node_b7scs);
+
+                f2Display.B7SCStartingPoints = b7scs.Keys.ToList();
+                f2Display.B7SCList = b7scs.Values
+                    .SelectMany(b7sc => b7sc)
+                    .ToList();
+
+                //Cross streets list and starting points
+                Dictionary<int, List<string>> crxSts = ValidationHelper.CreateCrossStreetDict(wa1.in_boro1, wa2f2w, GeoCaller);
+
+                f2Display.StartingXStreets = crxSts.Keys.ToList();
+                f2Display.CrossStreets = crxSts.Values
+                    .SelectMany(crx => crx)
+                    .ToList();
+            }
+
+
+            return goatlike;
+        }
+
+        public GeocallResponse<F3cDisplay, F3cResponse> Function3C(FunctionInput input)
+        {
+            Wa1 wa1 = new Wa1
+            {
+                in_func_code = "3C",
+                in_platform_ind = "C",
+                in_auxseg_switch = "Y",
+                in_mode_switch = "E",
+
+                in_boro1 = ValidationHelper.ValidateBoroInput(input.Borough1),
+                in_stname1 = input.OnStreet?.Replace(" and ", " & ") ?? string.Empty,
+                in_compass_dir = input.CompassFlag ?? string.Empty,
+                in_boro2 = ValidationHelper.ValidateBoroInput(input.Borough2),
+                in_stname2 = input.FirstCrossStreet?.Replace(" and ", " & ") ?? string.Empty,
+                in_boro3 = ValidationHelper.ValidateBoroInput(input.Borough3), 
+                in_stname3 = input.SecondCrossStreet?.Replace(" and ", " & ") ?? string.Empty,
+                in_browse_flag = input.BrowseFlag ?? string.Empty
+            };
+            Wa2F3ceas wa2f3ceas = new Wa2F3ceas();
+
+            GeoCaller.GeoCall(ref wa1, ref wa2f3ceas);
+
+            return new GeocallResponse<F3cDisplay, F3cResponse>
+            {
+                display = new F3cDisplay(wa1, wa2f3ceas, GeoCaller) {
+                    LowB7SCList = ValidationHelper.CreateB7ScList(wa2f3ceas.wa2f3ce.lo_x_sts, wa1.out_stname_list, wa2f3ceas.wa2f3ce.lo_x_sts_cnt, 0, GeoCaller),
+                    HighB7SCList = ValidationHelper.CreateB7ScList(wa2f3ceas.wa2f3ce.hi_x_sts, wa1.out_stname_list, wa2f3ceas.wa2f3ce.hi_x_sts_cnt, 5, GeoCaller)
+                },
                 root = null
             };
         }

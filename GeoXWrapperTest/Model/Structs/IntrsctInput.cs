@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace GeoXWrapperTest.Model.Structs
 {
-    public readonly struct IntrsctInput
+    public struct IntrsctInput
     {
-        public string Boro { get; }
-        public string St1 { get; }
-        public string St2 { get; }
+        public string Boro { get; set; }
+        public string St1 { get; set;  }
+        public string St2 { get; set;  }
 
-        public string Compass { get; }
-        public string NamedAlt { get; }
+        public string Compass { get; set; }
+        public string NamedAlt { get; set;  }
 
         public IntrsctInput(string boro, string st1, string st2, string compass = "", string namedAlt = "")
         {

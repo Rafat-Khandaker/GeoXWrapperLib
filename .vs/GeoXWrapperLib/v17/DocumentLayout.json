@@ -3,12 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\segsideb7sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\segsideb7sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\display\\f3cdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\display\\f3cdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa2f3ce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\wa2f3ce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\service\\geoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\service\\geoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa2f3ceas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\wa2f3ceas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\service\\contracts\\igeoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\service\\contracts\\igeoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\functiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\functiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\helper\\testresponsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\helper\\testresponsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\b10sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\b10sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function3c\\function3cresponse4.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function3c\\function3cresponse4.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function3c\\function3cresponse3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function3c\\function3cresponse3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function3c\\function3cresponse2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function3c\\function3cresponse2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\wa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\geo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\geo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\structs\\crossstreetinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\structs\\crossstreetinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa2f2w.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\wa2f2w.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\b7sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\b7sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\structs\\intrsctinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\structs\\intrsctinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\display\\f2display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\display\\f2display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\abstract\\abstractf3display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\abstract\\abstractf3display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\addrrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\addrrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\functioninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\functioninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\response\\f3cresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\response\\f3cresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\display\\f1bdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\display\\f1bdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\structs\\addrinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\structs\\addrinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\structs\\arbincase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\structs\\arbincase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\addressrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\addressrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\casesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\casesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function2node\\function2noderesponse1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function2node\\function2noderesponse1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function2\\function2response2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function2\\function2response2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function2node\\function2noderesponse5.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function2node\\function2noderesponse5.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\structs\\grc03intrsctcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\structs\\grc03intrsctcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function2node\\function2noderesponse2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,14 +139,6 @@
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function1a\\function1aresponse2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\service\\geoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\service\\geoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\display\\f2display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\display\\f2display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function2node\\function2noderesponse3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function2node\\function2noderesponse3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -35,24 +147,12 @@
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function2node\\function2noderesponse4.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function2node\\function2noderesponse5.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function2node\\function2noderesponse5.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\response\\f2response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\response\\f2response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa2f2w.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\wa2f2w.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\display\\f1ndisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\display\\f1ndisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\helper\\testresponsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\helper\\testresponsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\display\\f1edisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,14 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\display\\f1ldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\display\\f1ldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\structs\\addrinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\structs\\addrinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\enum\\functioncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\enum\\functioncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,10 +187,6 @@
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\display\\f1rdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\wa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function1l\\function1lresponse1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function1l\\function1lresponse1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -113,10 +201,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function1l\\function1lresponse2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function1l\\function1lresponse2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\display\\f1bdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\display\\f1bdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\response\\f1bresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -145,10 +229,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\addrrange_ap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\addrrange_ap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\addrrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\addrrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa2fhr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -197,14 +277,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa2f3cx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\wa2f3cx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa2f3ceas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\wa2f3ceas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa2f3ce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\wa2f3ce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\wa2f3cas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -286,10 +358,6 @@
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\geoxwrappertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrapperlib\\model\\b10sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4E7ED-799D-4B85-A00D-AC735E4D5CFF}|GeoXWrapperLib\\GeoXWrapperLib.csproj|solutionrelative:geoxwrapperlib\\model\\b10sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\results\\function1b\\function1bresponse1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\results\\function1b\\function1bresponse1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -329,20 +397,8 @@
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\response\\f1aresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\addressrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\addressrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\lowhighb7sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\lowhighb7sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\similarname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\similarname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|c:\\users\\r_khanda\\source\\repos\\geoxwrapperlib\\geoxwrappertest\\model\\casesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC62A3D7-9B9B-40FA-82C1-8FADE6F011CE}|GeoXWrapperTest\\GeoXWrapperTest.csproj|solutionrelative:geoxwrappertest\\model\\casesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -351,22 +407,21 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 270,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 287,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "FunctionTests.cs",
               "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\FunctionTests.cs",
               "RelativeDocumentMoniker": "GeoXWrapperTest\\FunctionTests.cs",
               "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\FunctionTests.cs",
               "RelativeToolTip": "GeoXWrapperTest\\FunctionTests.cs",
-              "ViewState": "AgIAANcAAAAAAAAAAAAgwPoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAIBAAAAAAAAAADgvxoBAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T15:40:29.482Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -374,1099 +429,240 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "F2Display.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F2Display.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F2Display.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F2Display.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F2Display.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "F3cDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F3cDisplay.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F3cDisplay.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F3cDisplay.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F3cDisplay.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAA2wA4BAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:52:15.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GeoService.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Service\\GeoService.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Service\\GeoService.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Service\\GeoService.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Service\\GeoService.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAAwMgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:15:36.521Z",
+              "WhenOpened": "2025-05-29T18:05:35.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Function2NodeResponse2.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse2.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse2.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse2.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse2.json",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwE4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T16:39:00.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Function2NodeResponse1.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse1.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse1.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse1.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse1.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T16:38:28.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Function2NodeResponse3.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse3.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse3.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse3.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse3.json",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwFYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T20:42:49.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Function1AResponse2.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse2.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse2.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse2.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse2.json",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T20:51:03.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Function2NodeResponse5.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse5.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse5.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse5.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse5.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T16:40:25.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "F2Response.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F2Response.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Response\\F2Response.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F2Response.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Response\\F2Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T16:42:06.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Wa2F2w.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F2w.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F2w.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F2w.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F2w.cs",
-              "ViewState": "AgIAABUCAAAAAAAAAAAxwCQCAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T16:44:32.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Function2NodeResponse4.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse4.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse4.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse4.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse4.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T16:40:14.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "F1nDisplay.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1nDisplay.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1nDisplay.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1nDisplay.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1nDisplay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T16:50:34.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TestResponseHelper.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Helper\\TestResponseHelper.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Helper\\TestResponseHelper.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Helper\\TestResponseHelper.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Helper\\TestResponseHelper.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAQwGIAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:23:05.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "F1eDisplay.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1eDisplay.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1eDisplay.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1eDisplay.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1eDisplay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T15:44:47.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "F1lDisplay.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1lDisplay.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1lDisplay.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1lDisplay.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1lDisplay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:22:50.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddrInput.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\AddrInput.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Structs\\AddrInput.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\AddrInput.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Structs\\AddrInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:42:39.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FunctionCode.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Enum\\FunctionCode.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Enum\\FunctionCode.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Enum\\FunctionCode.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Enum\\FunctionCode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:39:50.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Function1RResponse2.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse2.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse2.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse2.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse2.json",
-              "ViewState": "AgIAAIMAAAAAAAAAAADwv8AAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T19:30:06.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Function1RResponse4.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse4.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse4.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse4.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse4.json",
-              "ViewState": "AgIAALwAAAAAAAAAAABRwMAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T19:34:57.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Function1RResponse3.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse3.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse3.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse3.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse3.json",
-              "ViewState": "AgIAAE0AAAAAAAAAAABRwH8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T19:30:37.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Function1RResponse5.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse5.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse5.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse5.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse5.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T19:23:50.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\MSTestSettings.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\MSTestSettings.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\MSTestSettings.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\MSTestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T17:58:41.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "F1rDisplay.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1rDisplay.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1rDisplay.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1rDisplay.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1rDisplay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:48:38.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Function1LResponse4.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse4.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse4.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse4.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse4.json",
-              "ViewState": "AgIAAIMAAAAAAAAAAADwv8AAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T21:24:00.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Function1LResponse5.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse5.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse5.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse5.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse5.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T15:15:19.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Function1LResponse1.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse1.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse1.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse1.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse1.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T21:20:49.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Wa1.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa1.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa1.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa1.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa1.cs",
-              "ViewState": "AgIAAJsBAAAAAAAAAAAMwMQBAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T21:33:42.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Function1LResponse2.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse2.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse2.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse2.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse2.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T21:20:23.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "F1lResponse.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1lResponse.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Response\\F1lResponse.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1lResponse.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Response\\F1lResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:22:52.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "F1bDisplay.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1bDisplay.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1bDisplay.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1bDisplay.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1bDisplay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T19:32:59.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "F1bResponse.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1bResponse.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Response\\F1bResponse.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1bResponse.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Response\\F1bResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T20:46:17.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "F1aDisplay.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1aDisplay.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1aDisplay.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1aDisplay.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1aDisplay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T19:31:00.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Wa2F1ex.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1ex.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1ex.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1ex.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1ex.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAQwBYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T21:33:44.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AddrRangeX.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRangeX.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\AddrRangeX.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRangeX.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\AddrRangeX.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T21:02:58.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Wa2F3x.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3x.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3x.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3x.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3x.cs",
-              "ViewState": "AgIAAFsHAAAAAAAAAIBJwHIHAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T16:30:59.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Wa2F3sx.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3sx.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3sx.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3sx.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3sx.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T16:31:00.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Wa2F3xas.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3xas.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3xas.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3xas.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3xas.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAUwKAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T16:51:02.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Wa2F5.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F5.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F5.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F5.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F5.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAA3wCsAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T16:51:52.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AddrRange.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\AddrRange.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\AddrRange.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:52:51.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AddrRange_ap.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange_ap.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\AddrRange_ap.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange_ap.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\AddrRange_ap.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAmwG4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:52:57.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Wa2Fap.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fap.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2Fap.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fap.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2Fap.cs",
-              "ViewState": "AgIAAAgCAAAAAAAAAAAmwBkCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T16:55:35.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Wa2Fapx.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fapx.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2Fapx.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fapx.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2Fapx.cs",
-              "ViewState": "AgIAAL4BAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T18:49:02.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Wa2Fhr.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fhr.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2Fhr.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fhr.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2Fhr.cs",
-              "ViewState": "AgIAAHQBAAAAAAAAAAAkwKEBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:45:57.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "AddrRange_aspx.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange_aspx.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\AddrRange_aspx.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange_aspx.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\AddrRange_aspx.cs",
-              "ViewState": "AgIAAJsAAAAAAAAAAADwv10AAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:52:56.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Wa2F3s.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3s.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3s.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3s.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3s.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAjwBoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T16:27:06.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Wa2F3e.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3e.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3e.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3e.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3e.cs",
-              "ViewState": "AgIAAP4EAAAAAAAAAABQwCYFAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T16:15:03.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "TestPlatformEntryPoint.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\obj\\Debug\\net9.0\\TestPlatformEntryPoint.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\obj\\Debug\\net9.0\\TestPlatformEntryPoint.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\obj\\Debug\\net9.0\\TestPlatformEntryPoint.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\obj\\Debug\\net9.0\\TestPlatformEntryPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T16:33:31.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Wa2F3cxas.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cxas.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3cxas.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cxas.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3cxas.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAswJUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T16:14:13.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Wa2F1e.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1e.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1e.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1e.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1e.cs",
-              "ViewState": "AgIAAKUCAAAAAAAAAAAswIkCAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T15:48:31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Wa2F2.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F2.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F2.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F2.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F2.cs",
-              "ViewState": "AgIAAMABAAAAAAAAAAAuwJUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T16:38:14.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Wa2F3.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T17:18:13.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Wa2F3as.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3as.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3as.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3as.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3as.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T17:21:25.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Wa2F3c.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3c.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3c.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3c.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3c.cs",
-              "ViewState": "AgIAAPkAAAAAAAAAAIBJwMcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T17:21:43.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Wa2F3cas.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cas.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3cas.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cas.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3cas.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T17:28:25.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
               "Title": "Wa2F3ce.cs",
               "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3ce.cs",
               "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3ce.cs",
               "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3ce.cs",
               "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3ce.cs",
-              "ViewState": "AgIAABQFAAAAAAAAAABQwE0BAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABEFAAAAAAAAAAAcwDIFAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T17:32:51.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 0,
+              "Title": "SegSideB7sc.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\SegSideB7sc.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\SegSideB7sc.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\SegSideB7sc.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\SegSideB7sc.cs",
+              "ViewState": "AgIAAOsBAAAAAAAAAAArwB8CAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:12:00.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Wa2F3ceas.cs",
               "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3ceas.cs",
               "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3ceas.cs",
               "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3ceas.cs",
               "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3ceas.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAswD0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAADgv4gAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T17:38:28.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Wa2F3cx.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cx.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3cx.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cx.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3cx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T17:40:10.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Wa2F1b.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1b.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1b.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1b.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1b.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAIBJwDkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:55:46.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "Wa2F1ax.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1ax.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1ax.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1ax.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1ax.cs",
-              "ViewState": "AgIAAOMEAAAAAAAAAABQwAcFAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T19:07:10.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Wa2F1al_TPAD.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1al_TPAD.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1al_TPAD.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1al_TPAD.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1al_TPAD.cs",
-              "ViewState": "AgIAAFsDAAAAAAAAAIBJwIABAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T15:08:44.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Wa2F1al.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1al.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1al.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1al.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1al.cs",
-              "ViewState": "AgIAADYDAAAAAAAAAIBJwM8BAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T15:01:03.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Wa2F1a.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1a.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1a.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1a.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1a.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAgwB0CAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:55:46.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "Wa2F1.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1.cs",
-              "ViewState": "AgIAAIIFAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:55:14.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "Wa1Aimz.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa1Aimz.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa1Aimz.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa1Aimz.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa1Aimz.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwNsBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:51:27.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "WA.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\WA.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\WA.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\WA.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\WA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:46:26.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Wa2F1w.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1w.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1w.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1w.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1w.cs",
-              "ViewState": "AgIAAPUCAAAAAAAAAIBJwDMBAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T16:38:14.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Wa2F1v.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1v.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1v.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1v.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1v.cs",
-              "ViewState": "AgIAAIYCAAAAAAAAAABQwKcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T16:35:30.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "Wa2F1p.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1p.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1p.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1p.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1p.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T16:34:41.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "B5sc.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\B5sc.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\B5sc.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\B5sc.cs",
-              "RelativeToolTip": "GeoXWrapperLib\\Model\\B5sc.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAswEIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T20:26:19.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "SharedArrayPool.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\AppData\\Local\\Temp\\.vsdbgsrc\\be78634a728bfd355d549c395a0f48c188c5fe32187722167ec12d5d295a4ef1\\SharedArrayPool.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\be78634a728bfd355d549c395a0f48c188c5fe32187722167ec12d5d295a4ef1\\SharedArrayPool.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\AppData\\Local\\Temp\\.vsdbgsrc\\be78634a728bfd355d549c395a0f48c188c5fe32187722167ec12d5d295a4ef1\\SharedArrayPool.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\be78634a728bfd355d549c395a0f48c188c5fe32187722167ec12d5d295a4ef1\\SharedArrayPool.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAiwFMAAAADAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T21:30:07.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "GeoXWrapperTest.csproj",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\GeoXWrapperTest.csproj",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\GeoXWrapperTest.csproj",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\GeoXWrapperTest.csproj",
-              "RelativeToolTip": "GeoXWrapperTest\\GeoXWrapperTest.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T21:18:49.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "Function1BResponse1.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse1.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse1.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse1.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse1.json",
-              "ViewState": "AgIAAKQBAAAAAAAAAAAawLkBAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T20:53:40.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 8,
               "Title": "B10sc.cs",
               "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\B10sc.cs",
               "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\B10sc.cs",
               "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\B10sc.cs",
               "RelativeToolTip": "GeoXWrapperLib\\Model\\B10sc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:53:03.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Function3CResponse4.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function3C\\Function3CResponse4.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function3C\\Function3CResponse4.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function3C\\Function3CResponse4.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function3C\\Function3CResponse4.json",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T20:09:49.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Function3CResponse3.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function3C\\Function3CResponse3.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function3C\\Function3CResponse3.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function3C\\Function3CResponse3.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function3C\\Function3CResponse3.json",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T20:08:46.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Function3CResponse2.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function3C\\Function3CResponse2.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function3C\\Function3CResponse2.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function3C\\Function3CResponse2.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function3C\\Function3CResponse2.json",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T19:56:50.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Wa1.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa1.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa1.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa1.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa1.cs",
+              "ViewState": "AgIAAK4FAAAAAAAAAADgv8YFAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:33:42.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Geo.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Geo.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Geo.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Geo.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Geo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:53:03.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T21:09:19.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "Function1BResponse5.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse5.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse5.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse5.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse5.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T21:23:16.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "Function1BResponse3.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse3.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse3.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse3.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse3.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T20:56:08.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "Function1BResponse4.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse4.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse4.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse4.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse4.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T20:58:24.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "Function1AResponse3.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse3.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse3.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse3.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse3.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPgCAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T18:41:05.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "Function1BResponse2.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse2.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse2.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse2.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse2.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T20:54:23.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "Function1AResponse5.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse5.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse5.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse5.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse5.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T18:41:03.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "Function1AResponse4.json",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse4.json",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse4.json",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse4.json",
-              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse4.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-08T17:52:06.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAANYUAAAAAAAAAAAcwPMUAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-05-12T20:57:44.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "F1aResponse.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1aResponse.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Response\\F1aResponse.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1aResponse.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\Response\\F1aResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Wa2F2w.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F2w.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F2w.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F2w.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F2w.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T19:51:44.253Z",
+              "WhenOpened": "2025-05-14T16:44:32.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "AddressRange.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\AddressRange.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\AddressRange.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\AddressRange.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\AddressRange.cs",
+              "DocumentIndex": 16,
+              "Title": "B7sc.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\B7sc.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\B7sc.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\B7sc.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\B7sc.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADgv1IAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:02:58.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AbstractF3Display.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Abstract\\AbstractF3Display.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Abstract\\AbstractF3Display.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Abstract\\AbstractF3Display.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Abstract\\AbstractF3Display.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:16:45.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddrRange.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\AddrRange.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\AddrRange.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:52:51.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FunctionInput.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\FunctionInput.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\FunctionInput.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\FunctionInput.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\FunctionInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:51:31.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "F3cResponse.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F3cResponse.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Response\\F3cResponse.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F3cResponse.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Response\\F3cResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:44:25.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddrInput.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\AddrInput.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Structs\\AddrInput.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\AddrInput.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Structs\\AddrInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:42:39.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ArBinCase.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\ArBinCase.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Structs\\ArBinCase.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\ArBinCase.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Structs\\ArBinCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T19:52:16.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T17:38:30.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
-              "Title": "SimilarName.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\SimilarName.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\SimilarName.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\SimilarName.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\SimilarName.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "F1bDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1bDisplay.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1bDisplay.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1bDisplay.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1bDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T20:01:41.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T19:32:59.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "LowHighB7SC.cs",
-              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\LowHighB7SC.cs",
-              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\LowHighB7SC.cs",
-              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\LowHighB7SC.cs",
-              "RelativeToolTip": "GeoXWrapperTest\\Model\\LowHighB7SC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T19:35:22.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 27,
               "Title": "CaseSource.cs",
               "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\CaseSource.cs",
               "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\CaseSource.cs",
@@ -1474,8 +670,962 @@
               "RelativeToolTip": "GeoXWrapperTest\\Model\\CaseSource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T19:52:17.583Z",
+              "WhenOpened": "2025-05-08T19:52:17.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Function2Response2.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2\\Function2Response2.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2\\Function2Response2.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2\\Function2Response2.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2\\Function2Response2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T17:14:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddressRange.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\AddressRange.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\AddressRange.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\AddressRange.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\AddressRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:52:16.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Function2NodeResponse5.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse5.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse5.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse5.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse5.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T16:40:25.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Function2NodeResponse1.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse1.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse1.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse1.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T16:38:28.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Grc03IntrsctCase.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\Grc03IntrsctCase.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Structs\\Grc03IntrsctCase.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\Grc03IntrsctCase.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Structs\\Grc03IntrsctCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:50:19.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Function2NodeResponse3.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse3.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse3.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse3.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse3.json",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T20:42:49.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Function2NodeResponse2.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse2.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse2.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse2.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse2.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T16:39:00.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Function1AResponse2.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse2.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse2.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse2.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse2.json",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T20:51:03.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "F2Response.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F2Response.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Response\\F2Response.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F2Response.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Response\\F2Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:42:06.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Function2NodeResponse4.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse4.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse4.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse4.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function2Node\\Function2NodeResponse4.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T16:40:14.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "F1nDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1nDisplay.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1nDisplay.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1nDisplay.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1nDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:50:34.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "F1eDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1eDisplay.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1eDisplay.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1eDisplay.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1eDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:44:47.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "F1lDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1lDisplay.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1lDisplay.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1lDisplay.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1lDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:22:50.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Function1RResponse2.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse2.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse2.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse2.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse2.json",
+              "ViewState": "AgIAAIMAAAAAAAAAAADwv8AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T19:30:06.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Function1RResponse4.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse4.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse4.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse4.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse4.json",
+              "ViewState": "AgIAALwAAAAAAAAAAABRwMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T19:34:57.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Function1RResponse3.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse3.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse3.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse3.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse3.json",
+              "ViewState": "AgIAAE0AAAAAAAAAAABRwH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T19:30:37.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Function1RResponse5.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse5.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse5.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1R\\Function1RResponse5.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1R\\Function1RResponse5.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T19:23:50.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\MSTestSettings.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:58:41.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "F1rDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1rDisplay.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1rDisplay.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1rDisplay.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1rDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:48:38.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Function1LResponse4.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse4.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse4.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse4.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse4.json",
+              "ViewState": "AgIAAIMAAAAAAAAAAADwv8AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T21:24:00.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Function1LResponse5.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse5.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse5.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse5.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse5.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T15:15:19.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Function1LResponse1.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse1.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse1.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse1.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T21:20:49.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Function1LResponse2.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse2.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse2.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1L\\Function1LResponse2.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1L\\Function1LResponse2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T21:20:23.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "F1lResponse.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1lResponse.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Response\\F1lResponse.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1lResponse.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Response\\F1lResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:22:52.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "F1bResponse.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1bResponse.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Response\\F1bResponse.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1bResponse.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Response\\F1bResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:46:17.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "F1aDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1aDisplay.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F1aDisplay.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F1aDisplay.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F1aDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:31:00.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Wa2F1ex.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1ex.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1ex.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1ex.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1ex.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:33:44.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AddrRangeX.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRangeX.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\AddrRangeX.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRangeX.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\AddrRangeX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:02:58.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Wa2F3x.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3x.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3x.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3x.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3x.cs",
+              "ViewState": "AgIAAFsHAAAAAAAAAIBJwHIHAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:30:59.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Wa2F3sx.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3sx.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3sx.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3sx.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3sx.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:31:00.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Wa2F3xas.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3xas.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3xas.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3xas.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3xas.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAUwKAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:51:02.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Wa2F5.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F5.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F5.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F5.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F5.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA3wCsAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:51:52.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AddrRange_ap.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange_ap.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\AddrRange_ap.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange_ap.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\AddrRange_ap.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:52:57.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Wa2Fap.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fap.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2Fap.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fap.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2Fap.cs",
+              "ViewState": "AgIAAAgCAAAAAAAAAAAmwBkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:55:35.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Wa2Fapx.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fapx.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2Fapx.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fapx.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2Fapx.cs",
+              "ViewState": "AgIAAL4BAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:49:02.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Wa2Fhr.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fhr.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2Fhr.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2Fhr.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2Fhr.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAkwKEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:45:57.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AddrRange_aspx.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange_aspx.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\AddrRange_aspx.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\AddrRange_aspx.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\AddrRange_aspx.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAADwv10AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:52:56.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Wa2F3s.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3s.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3s.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3s.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3s.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAjwBoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:27:06.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Wa2F3e.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3e.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3e.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3e.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3e.cs",
+              "ViewState": "AgIAAP4EAAAAAAAAAABQwCYFAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:15:03.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "TestPlatformEntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\obj\\Debug\\net9.0\\TestPlatformEntryPoint.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\obj\\Debug\\net9.0\\TestPlatformEntryPoint.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\obj\\Debug\\net9.0\\TestPlatformEntryPoint.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\obj\\Debug\\net9.0\\TestPlatformEntryPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:33:31.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Wa2F3cxas.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cxas.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3cxas.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cxas.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3cxas.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:14:13.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Wa2F1e.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1e.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1e.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1e.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1e.cs",
+              "ViewState": "AgIAAKUCAAAAAAAAAAAswIkCAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:48:31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Wa2F2.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F2.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F2.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F2.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F2.cs",
+              "ViewState": "AgIAAMABAAAAAAAAAAAuwJUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:38:14.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Wa2F3.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:18:13.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Wa2F3as.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3as.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3as.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3as.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3as.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:21:25.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Wa2F3c.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3c.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3c.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3c.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3c.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAIBJwMcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:21:43.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Wa2F3cas.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cas.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3cas.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cas.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3cas.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:28:25.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Wa2F3cx.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cx.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F3cx.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F3cx.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F3cx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:40:10.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Wa2F1b.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1b.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1b.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1b.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1b.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAIBJwDkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:55:46.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Wa2F1ax.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1ax.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1ax.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1ax.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1ax.cs",
+              "ViewState": "AgIAAOMEAAAAAAAAAABQwAcFAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:07:10.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Wa2F1al_TPAD.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1al_TPAD.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1al_TPAD.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1al_TPAD.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1al_TPAD.cs",
+              "ViewState": "AgIAAFsDAAAAAAAAAIBJwIABAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:08:44.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Wa2F1al.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1al.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1al.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1al.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1al.cs",
+              "ViewState": "AgIAADYDAAAAAAAAAIBJwM8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:01:03.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Wa2F1a.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1a.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1a.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1a.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1a.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAgwB0CAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:55:46.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Wa2F1.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1.cs",
+              "ViewState": "AgIAAIIFAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:55:14.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Wa1Aimz.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa1Aimz.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa1Aimz.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa1Aimz.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa1Aimz.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwNsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:51:27.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "WA.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\WA.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\WA.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\WA.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\WA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:46:26.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Wa2F1w.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1w.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1w.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1w.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1w.cs",
+              "ViewState": "AgIAAPUCAAAAAAAAAIBJwDMBAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:38:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Wa2F1v.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1v.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1v.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1v.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1v.cs",
+              "ViewState": "AgIAAIYCAAAAAAAAAABQwKcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:35:30.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Wa2F1p.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1p.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\Wa2F1p.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\Wa2F1p.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\Wa2F1p.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:34:41.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "B5sc.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\B5sc.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperLib\\Model\\B5sc.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperLib\\Model\\B5sc.cs",
+              "RelativeToolTip": "GeoXWrapperLib\\Model\\B5sc.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:26:19.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SharedArrayPool.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\AppData\\Local\\Temp\\.vsdbgsrc\\be78634a728bfd355d549c395a0f48c188c5fe32187722167ec12d5d295a4ef1\\SharedArrayPool.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\be78634a728bfd355d549c395a0f48c188c5fe32187722167ec12d5d295a4ef1\\SharedArrayPool.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\AppData\\Local\\Temp\\.vsdbgsrc\\be78634a728bfd355d549c395a0f48c188c5fe32187722167ec12d5d295a4ef1\\SharedArrayPool.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\be78634a728bfd355d549c395a0f48c188c5fe32187722167ec12d5d295a4ef1\\SharedArrayPool.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwFMAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:30:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "GeoXWrapperTest.csproj",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\GeoXWrapperTest.csproj",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\GeoXWrapperTest.csproj",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\GeoXWrapperTest.csproj",
+              "RelativeToolTip": "GeoXWrapperTest\\GeoXWrapperTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T21:18:49.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Function1BResponse1.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse1.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse1.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse1.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse1.json",
+              "ViewState": "AgIAAKQBAAAAAAAAAAAawLkBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T20:53:40.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Function1BResponse5.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse5.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse5.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse5.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse5.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T21:23:16.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Function1BResponse3.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse3.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse3.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse3.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T20:56:08.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Function1BResponse4.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse4.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse4.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse4.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse4.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T20:58:24.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Function1AResponse3.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse3.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse3.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse3.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPgCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T18:41:05.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Function1BResponse2.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse2.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse2.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1B\\Function1BResponse2.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1B\\Function1BResponse2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T20:54:23.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Function1AResponse5.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse5.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse5.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse5.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse5.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T18:41:03.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Function1AResponse4.json",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse4.json",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse4.json",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Results\\Function1A\\Function1AResponse4.json",
+              "RelativeToolTip": "GeoXWrapperTest\\Results\\Function1A\\Function1AResponse4.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T17:52:06.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANYUAAAAAAAAAAAcwPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-12T20:57:44.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "F1aResponse.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1aResponse.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Response\\F1aResponse.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Response\\F1aResponse.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Response\\F1aResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:51:44.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "LowHighB7SC.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\LowHighB7SC.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\LowHighB7SC.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\LowHighB7SC.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\LowHighB7SC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:35:22.217Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGeoService.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Service\\Contracts\\IGeoService.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Service\\Contracts\\IGeoService.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Service\\Contracts\\IGeoService.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Service\\Contracts\\IGeoService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:47:06.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeoService.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Service\\GeoService.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Service\\GeoService.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Service\\GeoService.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Service\\GeoService.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAASwAcBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:15:36.521Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestResponseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Helper\\TestResponseHelper.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Helper\\TestResponseHelper.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Helper\\TestResponseHelper.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Helper\\TestResponseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDUAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:23:05.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrossStreetInputs.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\CrossStreetInputs.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Structs\\CrossStreetInputs.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\CrossStreetInputs.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Structs\\CrossStreetInputs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:43:49.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IntrsctInput.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\IntrsctInput.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Structs\\IntrsctInput.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Structs\\IntrsctInput.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Structs\\IntrsctInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:28:11.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "F2Display.cs",
+              "DocumentMoniker": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F2Display.cs",
+              "RelativeDocumentMoniker": "GeoXWrapperTest\\Model\\Display\\F2Display.cs",
+              "ToolTip": "C:\\Users\\r_khanda\\source\\repos\\GeoXWrapperLib\\GeoXWrapperTest\\Model\\Display\\F2Display.cs",
+              "RelativeToolTip": "GeoXWrapperTest\\Model\\Display\\F2Display.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB0AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:52:15.099Z"
             }
           ]
         }

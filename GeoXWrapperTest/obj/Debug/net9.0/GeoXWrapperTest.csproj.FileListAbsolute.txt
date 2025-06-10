@@ -297,3 +297,13 @@ C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\R
 C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function2Node\Function2NodeResponse3.json
 C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function2Node\Function2NodeResponse4.json
 C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function2Node\Function2NodeResponse5.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function2\Function2Response1.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function2\Function2Response2.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function2\Function2Response3.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function2\Function2Response4.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function2\Function2Response5.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function3C\Function3CResponse1.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function3C\Function3CResponse2.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function3C\Function3CResponse3.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function3C\Function3CResponse4.json
+C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Results\Function3C\Function3CResponse5.json

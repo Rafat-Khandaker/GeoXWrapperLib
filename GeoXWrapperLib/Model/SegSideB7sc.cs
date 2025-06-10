@@ -53,265 +53,652 @@ namespace GeoXWrapperLib.Model
 
         public ComDist comdist
         {
-            get => m_comdist; 
-            set { m_comdist = value; }
+            get
+            {
+                return m_comdist;
+            }
+            set
+            {
+                m_comdist = value;
+            }
         }
 
         public string lhnd
         {
-            get => m_lhnd; 
+            get
+            {
+                return m_lhnd;
+            }
             set
             {
                 int strlen = value.Length;
                 if (strlen > 16) strlen = 16;
                 m_lhnd = new string(' ', 16);
                 if (strlen > 0)
+                {
                     m_lhnd = value.Substring(0, strlen).PadRight(16);
+                }
             }
         }
 
         public string hhnd
         {
-            get => m_hhnd; 
+            get
+            {
+                return m_hhnd;
+            }
             set
             {
                 int strlen = value.Length;
                 if (strlen > 16) strlen = 16;
                 m_hhnd = new string(' ', 16);
                 if (strlen > 0)
+                {
                     m_hhnd = value.Substring(0, strlen).PadRight(16);
+                }
             }
         }
 
         public string alternate_lhnd
         {
-            get => m_alternate_lhnd; 
+            get
+            {
+                return m_alternate_lhnd;
+            }
             set
             {
                 int strlen = value.Length;
                 if (strlen > 16) strlen = 16;
                 m_alternate_lhnd = new string(' ', 16);
                 if (strlen > 0)
+                {
                     m_alternate_lhnd = value.Substring(0, strlen).PadRight(16);
+                }
             }
         }
 
         public string alternate_hhnd
         {
-            get => m_alternate_hhnd; 
+            get
+            {
+                return m_alternate_hhnd;
+            }
             set
             {
                 int strlen = value.Length;
                 if (strlen > 16) strlen = 16;
                 m_alternate_hhnd = new string(' ', 16);
                 if (strlen > 0)
+                {
                     m_alternate_hhnd = value.Substring(0, strlen).PadRight(16);
+                }
             }
         }
 
         public string iaei
         {
-            get => m_iaei;
-            set => m_iaei = value.Length > 1 ? value.Substring(0, 1) : " ";
+            get
+            {
+                return m_iaei;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 1) strlen = 1;
+                m_iaei = " ";
+                if (strlen > 0)
+                {
+                    m_iaei = value.Substring(0, strlen).PadRight(1);
+                }
+            }
         }
 
         public string zip_code
         {
-            get => m_zip_code;
-            set => m_zip_code = value.Length > 5 ? value.Substring(0, 5) : "     ";
+            get
+            {
+                return m_zip_code;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 5) strlen = 5;
+                m_zip_code = "     ";
+                if (strlen > 0)
+                {
+                    m_zip_code = value.Substring(0, strlen).PadRight(5);
+                }
+            }
         }
 
         public string health_area
         {
-            get => m_health_area;
-            set => m_health_area = value.Length > 4 ? value.Substring(0, 4) : "    ";
+            get
+            {
+                return m_health_area;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 4) strlen = 4;
+                m_health_area = "    ";
+                if (strlen > 0)
+                {
+                    m_health_area = value.Substring(0, strlen).PadRight(4);
+                }
+            }
         }
 
         public string police_boro_com
         {
-            get => m_police_boro_com;
-            set => m_police_boro_com = value.Length > 1 ? value.Substring(0, 1) : " ";
+            get
+            {
+                return m_police_boro_com;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 1) strlen = 1;
+                m_police_boro_com = " ";
+                if (strlen > 0)
+                {
+                    m_police_boro_com = value.Substring(0, strlen).PadRight(1);
+                }
+            }
         }
 
         public string police_pct
         {
-            get => m_police_pct;
-            set => m_police_pct = value.Length > 3 ? value.Substring(0, 3) : "   ";
+            get
+            {
+                return m_police_pct;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 3) strlen = 3;
+                m_police_pct = "   ";
+                if (strlen > 0)
+                {
+                    m_police_pct = value.Substring(0, strlen).PadRight(3);
+                }
+            }
         }
 
         public string fire_div
         {
-            get => m_fire_div;
-            set => m_fire_div = value.Length > 2 ? value.Substring(0, 2) : "  ";
+            get
+            {
+                return m_fire_div;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 2) strlen = 2;
+                m_fire_div = "  ";
+                if (strlen > 0)
+                {
+                    m_fire_div = value.Substring(0, strlen).PadRight(2);
+                }
+            }
         }
 
         public string fire_bat
         {
-            get => m_fire_bat;
-            set => m_fire_bat = value.Length > 2 ? value.Substring(0, 2) : "  ";
+            get
+            {
+                return m_fire_bat;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 2) strlen = 2;
+                m_fire_bat = "  ";
+                if (strlen > 0)
+                {
+                    m_fire_bat = value.Substring(0, strlen).PadRight(2);
+                }
+            }
         }
 
         public string fire_co_type
         {
-            get => m_fire_co_type;
-            set => m_fire_co_type = value.Length > 1 ? value.Substring(0, 1) : " ";
+            get
+            {
+                return m_fire_co_type;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 1) strlen = 1;
+                m_fire_co_type = " ";
+                if (strlen > 0)
+                {
+                    m_fire_co_type = value.Substring(0, strlen).PadRight(1);
+                }
+            }
         }
 
         public string fire_co_num
         {
-            get => m_fire_co_num;
-            set => m_fire_co_num = value.Length > 3 ? value.Substring(0, 3) : "   ";
+            get
+            {
+                return m_fire_co_num;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 3) strlen = 3;
+                m_fire_co_num = "   ";
+                if (strlen > 0)
+                {
+                    m_fire_co_num = value.Substring(0, strlen).PadRight(3);
+                }
+            }
         }
 
         public string school_dist
         {
-            get => m_school_dist;
-            set => m_school_dist = value.Length > 2 ? value.Substring(0, 2) : "  ";
+            get
+            {
+                return m_school_dist;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 2) strlen = 2;
+                m_school_dist = "  ";
+                if (strlen > 0)
+                {
+                    m_school_dist = value.Substring(0, strlen).PadRight(2);
+                }
+            }
         }
 
         public string dynamic_block
         {
-            get => m_dynamic_block;
-            set => m_dynamic_block = value.Length > 3 ? value.Substring(0, 3) : "   ";
+            get
+            {
+                return m_dynamic_block;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 3) strlen = 3;
+                m_dynamic_block = "   ";
+                if (strlen > 0)
+                {
+                    m_dynamic_block = value.Substring(0, strlen).PadRight(3);
+                }
+            }
         }
 
         public string ed
         {
-            get => m_ed;
-            set => m_ed = value.Length > 3 ? value.Substring(0, 3) : new string(' ', 3);
+            get
+            {
+                return m_ed;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 3) strlen = 3;
+                m_ed = new string(' ', 3);
+                if (strlen > 0)
+                {
+                    m_ed = value.Substring(0, strlen).PadRight(3);
+                }
+            }
         }
 
         public string ad
         {
-            get => m_ad;
-            set => m_ad = value.Length > 2 ? value.Substring(0, 2) : new string(' ', 2);
+            get
+            {
+                return m_ad;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 2) strlen = 2;
+                m_ad = new string(' ', 2);
+                if (strlen > 0)
+                {
+                    m_ad = value.Substring(0, strlen).PadRight(2);
+                }
+            }
         }
 
         public string police_patrol_boro
         {
-            get => m_police_patrol_boro;
-            set => m_police_patrol_boro = value.Length > 2 ? value.Substring(0, 2) : "  ";
+            get
+            {
+                return m_police_patrol_boro;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 2) strlen = 2;
+                m_police_patrol_boro = "  ";
+                if (strlen > 0)
+                {
+                    m_police_patrol_boro = value.Substring(0, strlen).PadRight(2);
+                }
+            }
         }
 
         public string boro
         {
-            get => m_boro;
-            set => m_boro = value.Length > 1 ? value.Substring(0, 1) : " ";
+            get
+            {
+                return m_boro;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 1) strlen = 1;
+                m_boro = " ";
+                if (strlen > 0)
+                {
+                    m_boro = value.Substring(0, strlen).PadRight(1);
+                }
+            }
         }
 
         public string census_tract_1990
         {
-            get => m_census_tract_1990;
-            set => m_census_tract_1990 = value.Length > 6 ? value.Substring(0, 6) : "      ";
+            get
+            {
+                return m_census_tract_1990;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 6) strlen = 6;
+                m_census_tract_1990 = "      ";
+                if (strlen > 0)
+                {
+                    m_census_tract_1990 = value.Substring(0, strlen).PadRight(6);
+                }
+            }
         }
 
         public string census_tract_2010
         {
-            get => m_census_tract_2010;
-            set => m_census_tract_2010 = value.Length > 6 ? value.Substring(0, 6) : "      ";
+            get
+            {
+                return m_census_tract_2010;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 6) strlen = 6;
+                m_census_tract_2010 = "      ";
+                if (strlen > 0)
+                {
+                    m_census_tract_2010 = value.Substring(0, strlen).PadRight(6);
+                }
+            }
         }
 
         public string census_block_2010
         {
-            get => m_census_block_2010;
-            set => m_census_block_2010 = value.Length > 4 ? value.Substring(0, 4) : "    ";
+            get
+            {
+                return m_census_block_2010;
+            }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 4) strlen = 4;
+                m_census_block_2010 = "    ";
+                if (strlen > 0)
+                {
+                    m_census_block_2010 = value.Substring(0, strlen).PadRight(4);
+                }
+            }
         }
 
         public string census_block_suffix_2010
         {
-            get => m_census_block_suffix_2010;
-            set => m_census_block_suffix_2010 = value.Length > 1 ? value.Substring(0, 1) : " ";
+            get { return m_census_block_suffix_2010; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 1) strlen = 1;
+                m_census_block_suffix_2010 = " ";
+                if (strlen > 0)
+                {
+                    m_census_block_suffix_2010 = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string census_tract_2000
         {
-            get => m_census_tract_2000;
-            set => m_census_tract_2000 = value.Length > 6 ? value.Substring(0, 6) : "      ";
+            get { return m_census_tract_2000; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 6) strlen = 6;
+                m_census_tract_2000 = "      ";
+                if (strlen > 0)
+                {
+                    m_census_tract_2000 = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string census_block_2000
         {
-            get => m_census_block_2000;
-            set => m_census_block_2000 = value.Length > 4 ? value.Substring(0, 4) : "    ";
+            get { return m_census_block_2000; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 4) strlen = 4;
+                m_census_block_2000 = "    ";
+                if (strlen > 0)
+                {
+                    m_census_block_2000 = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string census_block_suffix_2000
         {
-            get => m_census_block_suffix_2000;
-            set => m_census_block_suffix_2000 = value.Length > 1 ? value.Substring(0, 1) : " ";
+            get { return m_census_block_suffix_2000; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 1) strlen = 1;
+                m_census_block_suffix_2000 = " ";
+                if (strlen > 0)
+                {
+                    m_census_block_suffix_2000 = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string nta
         {
-            get => m_nta;
-            set => m_nta = value.Length > 4 ? value.Substring(0, 4) : new string(' ', 4);
+            get { return m_nta; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 4) strlen = 4;
+                m_nta = new string(' ', 4);
+                if (strlen > 0)
+                {
+                    m_nta = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string nta_name
         {
-            get => m_nta_name;
-            set => m_nta_name = value.Length > 75 ? value.Substring(0, 75) : new string(' ', 75);
+            get { return m_nta_name; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 75) strlen = 75;
+                m_nta_name = new string(' ', 75);
+                if (strlen > 0)
+                {
+                    m_nta_name = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string puma_code
         {
-            get => m_puma_code;
-            set => m_puma_code = value.Length > 5 ? value.Substring(0, 5) : "     ";
+            get { return m_puma_code; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 5) strlen = 5;
+                m_puma_code = "     ";
+                if (strlen > 0)
+                {
+                    m_puma_code = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string blockface_id
         {
-            get => m_blockface_id;
-            set => m_blockface_id = value.Length > 10 ? value.Substring(0, 10) : "     ";
+            get { return m_blockface_id; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 10) strlen = 10;
+                m_blockface_id = "     ";
+                if (strlen > 0)
+                {
+                    m_blockface_id = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string hcd
         {
-            get => m_hcd;
-            set => m_hcd = value.Length > 2 ? value.Substring(0, 2) : "     ";
+            get { return m_hcd; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 2) strlen = 2;
+                m_hcd = "     ";
+                if (strlen > 0)
+                {
+                    m_hcd = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string police_sector
         {
-            get => m_police_sector;
-            set => m_police_sector = value.Length > 4 ? value.Substring(0, 4) : "     ";
+            get { return m_police_sector; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 4) strlen = 4;
+                m_police_sector = "     ";
+                if (strlen > 0)
+                {
+                    m_police_sector = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string census_tract_2020
         {
-            get => m_census_tract_2020;
-            set => m_census_tract_2020 = value.Length > 6 ? value.Substring(0, 6) : "      ";
+            get { return m_census_tract_2020; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 6) strlen = 6;
+                m_census_tract_2020 = "      ";
+                if (strlen > 0)
+                {
+                    m_census_tract_2020 = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string census_block_2020
         {
-            get => m_census_block_2020;
-            set => m_census_block_2020 = value.Length > 4 ? value.Substring(0, 4) : "    ";
+            get { return m_census_block_2020; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 4) strlen = 4;
+                m_census_block_2020 = "    ";
+                if (strlen > 0)
+                {
+                    m_census_block_2020 = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string census_block_suffix_2020
         {
-            get => m_census_block_suffix_2020;
-            set => m_census_block_suffix_2020 = value.Length > 1 ? value.Substring(0, 1) : " ";
+            get { return m_census_block_suffix_2020; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 1) strlen = 1;
+                m_census_block_suffix_2020 = " ";
+                if (strlen > 0)
+                {
+                    m_census_block_suffix_2020 = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string nta_2020
         {
-            get => m_nta_2020;
-            set => m_nta_2020 = value.Length > 6 ? value.Substring(0, 6) : "      ";
+            get { return m_nta_2020; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 6) strlen = 6;
+                m_nta_2020 = "      ";
+                if (strlen > 0)
+                {
+                    m_nta_2020 = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string cdta_2020
         {
-            get => m_cdta_2020;
-            set => m_cdta_2020 = value.Length > 4 ? value.Substring(0, 4) : "    ";
+            get { return m_cdta_2020; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 4) strlen = 4;
+                m_cdta_2020 = "    ";
+                if (strlen > 0)
+                {
+                    m_cdta_2020 = value.Substring(0, strlen);
+                }
+            }
         }
 
         public string filler04
         {
-            get => m_filler04;
-            set => m_filler04 = value.Length > 3 ? value.Substring(0, 3) : "   ";
+            get { return m_filler04; }
+            set
+            {
+                int strlen = value.Length;
+                if (strlen > 3) strlen = 3;
+                m_filler04 = "   ";
+                if (strlen > 0)
+                {
+                    m_filler04 = value.Substring(0, strlen);
+                }
+            }
         }
+
 
 
         public SegSideB7sc() => Initialize();
@@ -449,64 +836,66 @@ namespace GeoXWrapperLib.Model
         {
             // all fields have setters so use them
 
-            comdist = new ComDist(inString.Substring(0, 3));
-            lhnd = inString.Substring(3, 16);
-            hhnd = inString.Substring(19, 16);
-            alternate_lhnd = inString.Substring(35, 16);
-            alternate_hhnd = inString.Substring(51, 16);
-            iaei = inString.Substring(67, 1);
-            zip_code = inString.Substring(68, 5);
-            health_area = inString.Substring(73, 4);
-            police_boro_com = inString.Substring(77, 1);
-            police_pct = inString.Substring(78, 3);
+            m_comdist = new ComDist(inString.Substring(0, 3));
+            m_lhnd = inString.Substring(3, 16);
+            m_hhnd = inString.Substring(19, 16);
+            m_alternate_lhnd = inString.Substring(35, 16);
+            m_alternate_hhnd = inString.Substring(51, 16);
+            m_iaei = inString.Substring(67, 1);
+            m_zip_code = inString.Substring(68, 5);
+            m_health_area = inString.Substring(73, 4);
+            m_police_boro_com = inString.Substring(77, 1);
+            m_police_pct = inString.Substring(78, 3);
 
-            fire_div = inString.Substring(81, 2);
-            fire_bat = inString.Substring(83, 2);
-            fire_co_type = inString.Substring(85, 1);
-            fire_co_num = inString.Substring(86, 3);
+            m_fire_div = inString.Substring(81, 2);
+            m_fire_bat = inString.Substring(83, 2);
+            m_fire_co_type = inString.Substring(85, 1);
+            m_fire_co_num = inString.Substring(86, 3);
 
-            school_dist = inString.Substring(89, 2);
-            dynamic_block = inString.Substring(91, 3);
+            m_school_dist = inString.Substring(89, 2);
+            m_dynamic_block = inString.Substring(91, 3);
 
             // Geosupport 11.0 removed instruct_div and added ED, AD 
-            ed = inString.Substring(94, 3);
-            ad = inString.Substring(97, 2);
+            m_ed = inString.Substring(94, 3);
+            m_ad = inString.Substring(97, 2);
 
             // added police patrol borough 
-            police_patrol_boro = inString.Substring(99, 2);
+            m_police_patrol_boro = inString.Substring(99, 2);
 
             // Geosupport Version 11.3 / Release 12A 
-            boro = inString.Substring(101, 1);
-            census_tract_1990 = inString.Substring(102, 6);
+            m_boro = inString.Substring(101, 1);
+            m_census_tract_1990 = inString.Substring(102, 6);
 
             // Geosupport 11.0 added 2010 census and moved 2000 census fields
-            census_tract_2010 = inString.Substring(108, 6);
-            census_block_2010 = inString.Substring(114, 4);
-            census_block_suffix_2010 = inString.Substring(118, 1);
-            census_tract_2000 = inString.Substring(119, 6);
+            m_census_tract_2010 = inString.Substring(108, 6);
+            m_census_block_2010 = inString.Substring(114, 4);
+            m_census_block_suffix_2010 = inString.Substring(118, 1);
+            m_census_tract_2000 = inString.Substring(119, 6);
 
-            census_block_2000 = inString.Substring(125, 4);
+            m_census_block_2000 = inString.Substring(125, 4);
 
             // added new field, census_block_suffix_2000
-            census_block_suffix_2000 = inString.Substring(129, 1);
-
-            // Geosupport Version 11.3 / Release 12A 
+            m_census_block_suffix_2000 = inString.Substring(129, 1);
             nta = inString.Substring(130, 4);
+            // Geosupport Version 11.3 / Release 12A 
             nta_name = inString.Substring(134, 75);
-            puma_code = inString.Substring(209, 5);
-            blockface_id = inString.Substring(214, 10);
-            hcd = inString.Substring(224, 2);
-            police_sector = inString.Substring(226, 4);
+            m_puma_code = inString.Substring(209, 5);
+
+            m_blockface_id = inString.Substring(214, 5);
+            //m_blockface_id = inString.Substring(214, 10);  -- original logic with unit test errors 06/10/2025 R.K
+
+            m_hcd = inString.Substring(224, 2);
+            m_police_sector = inString.Substring(226, 4);
 
             // Add 21 bytes for new census 2020 fields 
-            census_tract_2020 = inString.Substring(230, 6);
-            census_block_2020 = inString.Substring(236, 4);
-            census_block_suffix_2020 = inString.Substring(240, 1);
-            nta_2020 = inString.Substring(241, 6);
-            cdta_2020 = inString.Substring(247, 4);
+            m_census_tract_2020 = inString.Substring(230, 6);
+            m_census_block_2020 = inString.Substring(236, 4);
+            m_census_block_suffix_2020 = inString.Substring(240, 1);
+            m_nta_2020 = inString.Substring(241, 6);
+            m_cdta_2020 = inString.Substring(247, 4);
 
             // filler04
-            filler04 = inString.Substring(251, 3);
+            m_filler04 = inString.Substring(251, 3);
         }
 
         public string Display(char c)

@@ -32,7 +32,7 @@ namespace GeoXWrapperTest
             GeoService = ServiceProvider.GetService<IGeoService>();
         }
 
-        public static IEnumerable<object[]> F1A_AddrInputs => TestResponseHelper.AddrInputs_Generator(FunctionCode.F1A);
+        public static IEnumerable<object[]> F1A_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.F1A);
 
         [TestMethod]
         [DynamicData(nameof(F1A_AddrInputs), DynamicDataSourceType.Property)]
@@ -63,7 +63,7 @@ namespace GeoXWrapperTest
             Assert.AreEqual(actual, expected);
         }
 
-        public static IEnumerable<object[]> F1B_AddrInputs => TestResponseHelper.AddrInputs_Generator(FunctionCode.F1B);
+        public static IEnumerable<object[]> F1B_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.F1B);
 
         [TestMethod]
         [DynamicData(nameof(F1B_AddrInputs), DynamicDataSourceType.Property)]
@@ -94,7 +94,7 @@ namespace GeoXWrapperTest
             Assert.AreEqual(actual, expected);
         }
 
-        public static IEnumerable<object[]> F1E_AddrInputs => TestResponseHelper.AddrInputs_Generator(FunctionCode.F1E);
+        public static IEnumerable<object[]> F1E_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.F1E);
 
         [TestMethod]
         [DynamicData(nameof(F1E_AddrInputs), DynamicDataSourceType.Property)]
@@ -126,7 +126,7 @@ namespace GeoXWrapperTest
             Assert.AreEqual(actual, expected);
         }
 
-        public static IEnumerable<object[]> F1L_AddrInputs => TestResponseHelper.AddrInputs_Generator(FunctionCode.F1L);
+        public static IEnumerable<object[]> F1L_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.F1L);
 
         [TestMethod]
         [DynamicData(nameof(F1L_AddrInputs), DynamicDataSourceType.Property)]
@@ -158,7 +158,7 @@ namespace GeoXWrapperTest
             Assert.AreEqual(actual, expected);
         }
 
-        public static IEnumerable<object[]> F1N_AddrInputs => TestResponseHelper.AddrInputs_Generator(FunctionCode.F1N);
+        public static IEnumerable<object[]> F1N_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.F1N);
 
         [TestMethod]
         [DynamicData(nameof(F1N_AddrInputs), DynamicDataSourceType.Property)]
@@ -191,7 +191,7 @@ namespace GeoXWrapperTest
             Assert.AreEqual(actual, expected);
         }
 
-        public static IEnumerable<object[]> F1R_AddrInputs => TestResponseHelper.AddrInputs_Generator(FunctionCode.F1R);
+        public static IEnumerable<object[]> F1R_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.F1R);
 
         [TestMethod]
         [DynamicData(nameof(F1R_AddrInputs), DynamicDataSourceType.Property)]
@@ -224,13 +224,13 @@ namespace GeoXWrapperTest
             Assert.AreEqual(actual, expected);
         }
 
-        public static IEnumerable<object[]> F2Node_AddrInputs => TestResponseHelper.AddrInputs_Generator(FunctionCode.F2Node); 
+        public static IEnumerable<object[]> F2Node_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.F2Node); 
  
         [TestMethod]
         [DynamicData(nameof(F2Node_AddrInputs), DynamicDataSourceType.Property)]
         public void Function2Node(AddrInput input, string output)
         {
-            var result = JsonSerializer.Serialize(GeoService.Function2Node(new FunctionInput{ NodeId = input.NodeId }));
+            var result = JsonSerializer.Serialize(GeoService.Function2(new FunctionInput{ NodeId = input.NodeId }));
 
             var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
             var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
@@ -246,6 +246,61 @@ namespace GeoXWrapperTest
             Assert.AreEqual(actual, expected);
         }
 
+        public static IEnumerable<object[]> F2_IntrsctInput => TestResponseHelper.Inputs_Generator(FunctionCode.F2); 
+ 
+        [TestMethod]
+        [DynamicData(nameof(F2_IntrsctInput), DynamicDataSourceType.Property)]
+        public void Function2(IntrsctInput input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.Function2(new FunctionInput
+            {
+                Borough1 = input.Boro,
+                Street1 = input.St1,
+                Borough2 = input.Boro,
+                Street2 = input.St2
+            }));
 
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_2", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
+        public static IEnumerable<object[]> F3C_IntrsctInput => TestResponseHelper.Inputs_Generator(FunctionCode.F3C);
+
+        [TestMethod]
+        [DynamicData(nameof(F3C_IntrsctInput), DynamicDataSourceType.Property)]
+        public void Function3C(CrossStreetInputs input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.Function3C(new FunctionInput
+            {
+                Borough1 = input.Borough1,
+                OnStreet= input.OnStreet,
+                FirstCrossStreet = input.FirstCrossStreet,
+                SecondCrossStreet = input.SecondCrossStreet,
+                CompassFlag = input.CompassDirection
+            }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_3C", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
     }
 }

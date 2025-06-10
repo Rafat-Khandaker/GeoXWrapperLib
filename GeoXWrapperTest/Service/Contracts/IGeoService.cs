@@ -24,7 +24,9 @@ namespace GeoXWrapperTest.Service.Contracts
         public GeocallResponse<F1rDisplay, F1rResponse> Function1R(FunctionInput input);
 
 
-        public GeocallResponse<F2Display, F2Response> Function2Node(FunctionInput input);
+        public GeocallResponse<F2Display, F2Response> Function2(FunctionInput input);
+
+        public GeocallResponse<F3cDisplay, F3cResponse> Function3C(FunctionInput input);
 
     }
 }

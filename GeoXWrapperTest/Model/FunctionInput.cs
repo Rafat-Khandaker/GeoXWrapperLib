@@ -20,5 +20,17 @@ namespace GeoXWrapperTest.Model
         public string Hns { get; set; } = "n";
         public string NodeId { get; set; }
         public string RoadBed { get; set; } = "";
+        public string CompassFlag { get; set; }
+        public string Borough1 { get; set; }
+        public string Street1 { get; set; }
+        public string Borough2 { get; set; }
+        public string Street2 { get; set; }
+        public string OnStreet { get; set; }
+        public string FirstCrossStreet { get; set; }
+        public string Borough3 { get; set; }
+        public string SecondCrossStreet { get; set; }
+
+
+        
     }
 }

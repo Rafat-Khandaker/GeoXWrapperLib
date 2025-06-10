@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace GeoXWrapperLib.Model
 {
@@ -59,8 +60,23 @@ namespace GeoXWrapperLib.Model
             m_wa2f3ce.FromString(inString.Substring(0, 850));
             m_auxseg_filler = inString.Substring(850, 6);
             m_auxseg_count = inString.Substring(856, 4);
-            for (int i = 0; i < 70; i++)
-                try { m_auxseg_id_list[i] = inString.Substring(860 + (i * 7), 7); } catch { m_auxseg_id_list[i] = string.Empty; }
+
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Debug_Results_3c", append: true))
+            {
+                writer.WriteLine(inString);
+
+                for (int i = 0; i < 70; i++)
+                    try {
+                        var test = inString.Substring(860 + (i * 7), 7);
+                        writer.WriteLine(test);
+
+                        m_auxseg_id_list[i] = test;
+                    }
+                    catch { m_auxseg_id_list[i] = string.Empty; }
+            }
+            //for (int i = 0; i < 70; i++)
+            //    try { m_auxseg_id_list[i] = inString.Substring(860 + (i * 7), 7); } 
+            //    catch { m_auxseg_id_list[i] = string.Empty; }
         }
 
         // Display method with a custom separator
@@ -139,18 +155,17 @@ namespace GeoXWrapperLib.Model
         }
 
         // Property for auxseg_id_list
+        [XmlArrayItem(typeof(string), ElementName = "auxseg_id")]
         public string[] auxseg_id_list
         {
-            get => m_auxseg_id_list;
-            set => m_auxseg_id_list = value;
-        }
-
-        // Property for auxseg_id_list item
-
-        public string[] auxseg_id_list_item
-        {
-            get => m_auxseg_id_list;
-            set => m_auxseg_id_list = value;
+            get
+            {
+                return m_auxseg_id_list;
+            }
+            set
+            {
+                m_auxseg_id_list = value;
+            }
         }
 
         

@@ -1,0 +1,16 @@
+2025-05-29T20:40:27.2160741+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-05-29T20:40:27.2284843+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-05-29T20:40:27.2293155+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-05-29T20:40:27.2293194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 20:40:27.195
+2025-05-29T20:40:27.2330385+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 26360
+2025-05-29T20:40:27.2330619+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.2
+2025-05-29T20:40:27.2330740+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Private.CoreLib.dll
+2025-05-29T20:40:27.2330806+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-05-29T20:40:27.2330829+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\GeoXWrapperTest.dll
+2025-05-29T20:40:27.2331305+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\Log --results-directory C:\Users\r_khanda\source\repos\GeoXWrapperLib\TestResults --client-port 61076'
+2025-05-29T20:40:27.2338463+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-05-29T20:40:27.3153224+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-05-29T20:40:27.3182349+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\r_khanda\source\repos\GeoXWrapperLib\GeoXWrapperTest\bin\Debug\net9.0\GeoXWrapperTest.testconfig.json' not found.
+2025-05-29T20:40:27.3191728+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-05-29T20:40:27.5684492+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-05-29T20:40:27.5795913+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter WARNING Runsettings attribute 'MaxCpuCount' is not supported by Microsoft.Testing.Platform and will be ignored
