@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace GeoXWrapperTest.Model.Structs
 {
-    public readonly struct StCodeCase
+    public struct StCodeCase
     {
-        public string Boro1 { get; }
-        public string B10Sc1 { get; }
-        public string Boro2 { get; }
-        public string B10Sc2 { get; }
-        public string Boro3 { get; }
-        public string B10Sc3 { get; }
+        public string Boro1 { get; set; }
+        public string B10Sc1 { get; set; }
+        public string Boro2 { get; set; }
+        public string B10Sc2 { get; set; }
+        public string Boro3 { get; set; }
+        public string B10Sc3 { get; set; }
 
-        public List<StreetCode> ExpectedStCodes { get; }
-        public List<string> ExpectedCompactStNames { get; }
+        public List<StreetCode> ExpectedStCodes { get; set; }
+        public List<string> ExpectedCompactStNames { get; set; }
 
         public string FullB10Sc1 => Boro1 + B10Sc1;
         public string FullB10Sc2 => Boro2 + B10Sc2;

@@ -230,7 +230,7 @@ namespace GeoXWrapperTest
         [DynamicData(nameof(F2Node_AddrInputs), DynamicDataSourceType.Property)]
         public void Function2Node(AddrInput input, string output)
         {
-            var result = JsonSerializer.Serialize(GeoService.Function2(new FunctionInput{ NodeId = input.NodeId }));
+            var result = JsonSerializer.Serialize(GeoService.Function2NodeId(new FunctionInput{ NodeId = input.NodeId }));
 
             var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
             var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
@@ -295,6 +295,292 @@ namespace GeoXWrapperTest
 
             // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
             using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_3C", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
+        public static IEnumerable<object[]> F3S_IntrsctInput => TestResponseHelper.Inputs_Generator(FunctionCode.F3S);
+
+        [TestMethod]
+        [DynamicData(nameof(F3S_IntrsctInput), DynamicDataSourceType.Property)]
+        public void Function3S(CrossStreetInputs input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.Function3S(new FunctionInput
+            {
+                Borough = input.Borough1,
+                OnStreet = input.OnStreet,
+                FirstCrossStreet = input.FirstCrossStreet,
+                SecondCrossStreet = input.SecondCrossStreet,
+            }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_3S", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+        public static IEnumerable<object[]> F3_IntrsctInput => TestResponseHelper.Inputs_Generator(FunctionCode.F3);
+
+        [TestMethod]
+        [DynamicData(nameof(F3_IntrsctInput), DynamicDataSourceType.Property)]
+        public void Function3(CrossStreetInputs input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.Function3(new FunctionInput
+            {
+                Borough1 = input.Borough1,
+                OnStreet = input.OnStreet,
+                Borough2 = input.Borough1,
+                FirstCrossStreet = input.FirstCrossStreet,
+                Borough3 = input.Borough1,
+                SecondCrossStreet = input.SecondCrossStreet,
+                CompassFlag = input.CompassDirection
+            }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_3", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
+        public static IEnumerable<object[]> F5_HighLowAddrInput => TestResponseHelper.Inputs_Generator(FunctionCode.F5);
+
+        [TestMethod]
+        [DynamicData(nameof(F5_HighLowAddrInput), DynamicDataSourceType.Property)]
+        public void Function5(HighLowAddrInput input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.Function5(new FunctionInput
+            {
+                Borough = input.Borough,
+                LowAddressNo = input.LowAddressNo,
+                HighAddressNo = input.HighAddressNo,
+                StreetName = input.StreetName,
+            }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_5", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
+        public static IEnumerable<object[]> FAP_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.FAP);
+
+        [TestMethod]
+        [DynamicData(nameof(FAP_AddrInputs), DynamicDataSourceType.Property)]
+        public void FunctionAP(AddrInput input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.FunctionAP(new FunctionInput
+            {
+                Borough = input.Boro,
+                AddressNo = input.AddrNo,
+                StreetName = input.StName
+            }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_AP", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
+        public static IEnumerable<object[]> FBBL_BBLInputs => TestResponseHelper.Inputs_Generator(FunctionCode.FBBL);
+
+        [TestMethod]
+        [DynamicData(nameof(FBBL_BBLInputs), DynamicDataSourceType.Property)]
+        public void FunctionBBL(BBLInput input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.FunctionBBL(new FunctionInput
+            {
+                Borough = input.Boro,
+                Block = input.Block,
+                Lot = input.Lot
+            }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_BBL", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
+        public static IEnumerable<object[]> FBB_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.FBB);
+
+        [TestMethod]
+        [DynamicData(nameof(FBB_AddrInputs), DynamicDataSourceType.Property)]
+        public void FunctionBB(SndEntry input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.FunctionBB(new FunctionInput
+            {
+                Borough = input.out_boro_name1,
+                StreetName = input.out_stname1
+            }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_BB", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
+        public static IEnumerable<object[]> FBF_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.FBF);
+
+        [TestMethod]
+        [DynamicData(nameof(FBF_AddrInputs), DynamicDataSourceType.Property)]
+        public void FunctionBF(SndEntry input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.FunctionBF(new FunctionInput
+            {
+                Borough = input.out_boro_name1,
+                StreetName = input.out_stname1
+            }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_BF", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+        public static IEnumerable<object[]> FBIN_ShortBinInputs => TestResponseHelper.Inputs_Generator(FunctionCode.FBIN);
+
+        [TestMethod]
+        [DynamicData(nameof(FBIN_ShortBinInputs), DynamicDataSourceType.Property)]
+        public void FunctionBIN(string input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.FunctionBIN(new FunctionInput{ Bin = input }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_BIN", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
+        public static IEnumerable<object[]> FD_StCodeInputs => TestResponseHelper.Inputs_Generator(FunctionCode.FD);
+
+        [TestMethod]
+        [DynamicData(nameof(FD_StCodeInputs), DynamicDataSourceType.Property)]
+        public void FunctionD(StCodeCase input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.FunctionD(new FunctionInput
+            {
+                B10SC1 = input.FullB10Sc1,
+                B10SC2 = input.FullB10Sc2,
+                B10SC3 = input.FullB10Sc3
+            }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_D", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
+        public static IEnumerable<object[]> FHR_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.FHR);
+
+        [TestMethod]
+        [DynamicData(nameof(FHR_AddrInputs), DynamicDataSourceType.Property)]
+        public void FunctionHR(string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.FunctionHR());
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_HR", append: true))
+            {
+                writer.WriteLine(actual);
+                writer.WriteLine(expected);
+            }
+
+            Assert.AreEqual(actual, expected);
+        }
+
+        public static IEnumerable<object[]> FN_AddrInputs => TestResponseHelper.Inputs_Generator(FunctionCode.FN);
+
+        [TestMethod]
+        [DynamicData(nameof(FN_AddrInputs), DynamicDataSourceType.Property)]
+        public void FunctionN(AddrInput input, string output)
+        {
+            var result = JsonSerializer.Serialize(GeoService.FunctionN(new FunctionInput{
+                StreetName = input.StName,
+                StreetNameLength = input.StNameLength
+            }));
+
+            var actual = Regex.Replace(result, @"[\r\t\n\s]+", "");
+            var expected = Regex.Replace(output, @"[\r\t\n\s]+", "");
+
+
+            // Uncomment for Debugging Unit Tests for Errors. Read Logs in Debug Folder
+            using (StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\Results_N", append: true))
             {
                 writer.WriteLine(actual);
                 writer.WriteLine(expected);

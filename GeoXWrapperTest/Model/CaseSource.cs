@@ -251,16 +251,16 @@ namespace GeoXWrapperTest.Model
         /// <summary>
         /// BBL inputs for use in FBL
         /// </summary>
-        internal static IEnumerable<BblInput> BblInputs
+        internal static IEnumerable<BBLInput> BblInputs
         {
             get
             {
-                yield return new BblInput("1", "47", "7501"); //shorthand
-                yield return new BblInput("1", "00047", "7501");
-                yield return new BblInput("2", "02343", "0032");
-                yield return new BblInput("3", "01118", "0001");
-                yield return new BblInput("4", "01860", "0100");
-                yield return new BblInput("5", "00002", "0001");
+                yield return new BBLInput("1", "47", "7501"); //shorthand
+                yield return new BBLInput("1", "00047", "7501");
+                yield return new BBLInput("2", "02343", "0032");
+                yield return new BBLInput("3", "01118", "0001");
+                yield return new BBLInput("4", "01860", "0100");
+                yield return new BBLInput("5", "00002", "0001");
             }
         }
 

@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace GeoXWrapperTest.Model.Structs
 {
-    public readonly struct BblInput
+    public struct BBLInput
     {
-        public string Boro { get; }
-        public string Block { get; }
-        public string Lot { get; }
+        public string Boro { get; set; }
+        public string Block { get; set;  }
+        public string Lot { get; set;  }
 
         public string Bbl => $"{int.Parse(Boro):D1}{int.Parse(Block):D5}{int.Parse(Lot):D4}";
 
-        public BblInput(string boro, string block, string lot)
+        public BBLInput(string boro, string block, string lot)
         {
             Boro = boro;
             Block = block;

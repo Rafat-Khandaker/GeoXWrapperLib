@@ -40,6 +40,32 @@ namespace GeoXWrapperTest.Helper
                 return boro;
         }
 
+        public static List<AddressRangeApx> CreateAddressRangeList(IEnumerable<AddrRange_apx> addrXList)
+        {
+            if (!addrXList.Any())
+                return Enumerable.Empty<AddressRangeApx>().ToList();
+
+            List<AddressRangeApx> arlAp = new List<AddressRangeApx>();
+            foreach (AddrRange_apx arApx in addrXList)
+            {
+                if (string.IsNullOrWhiteSpace(arApx.b7sc.sc5))
+                    break;
+
+                arlAp.Add(new AddressRangeApx
+                {
+                    type = arApx.addr_type,
+                    type_meaning = AddressRange.NormalizedType(arApx.addr_type),
+                    low_address_number = arApx.lhnd,
+                    high_address_number = arApx.hhnd,
+                    street_name = arApx.stname,
+                    bin = arApx.bin.BINToString(),
+                    b7sc = arApx.b7sc.B7scToString(),
+                    //NOTE: FAP does not supply TPAD bin
+                });
+            }
+
+            return arlAp;
+        }
 
         public static List<AddressRange> CreateAddressRangeList(IEnumerable<AddrRangeX> addrXList, string tpad)
         {
@@ -61,7 +87,9 @@ namespace GeoXWrapperTest.Helper
                     street_name = arx.stname,
                     bin = arx.bin.BINToString(),
                     b7sc = arx.b7sc.B7scToString(),
-                    tpad_bin_status = "N/A"
+                    tpad_bin_status = InsEq(tpad, "y") || InsEq(tpad, "true")
+                        ? _fld.get_get_short_def("TPAD_bin_status", arx.TPAD_bin_status)
+                        : "N/A",
                 });
             }
 
@@ -129,7 +157,24 @@ namespace GeoXWrapperTest.Helper
 
             return snl;
         }
-
+        public static string ReadBoroName(string boroCode)
+        {
+            switch (boroCode)
+            {
+                case "1":
+                    return _manhattan.Name; //All 1's get folded into manhattan, no New York
+                case "2":
+                    return _bronx.Name;
+                case "3":
+                    return _brooklyn.Name;
+                case "4":
+                    return _queens.Name;
+                case "5":
+                    return _statenIsland.Name;
+                default:
+                    return string.Empty;
+            }
+        }
         public static List<CompleteBIN> CreateCompleteBINList(Wa1 wa1, Wa2F1ax wa2f1ax, string tpad, FunctionCode funcCode, Geo geoCaller)
         {
             string acceptedFunc;
@@ -139,7 +184,7 @@ namespace GeoXWrapperTest.Helper
                 case FunctionCode.F1B:
                     acceptedFunc = "1A";
                     break;
-                case FunctionCode.FBL:
+                case FunctionCode.FBBL:
                     acceptedFunc = "BL";
                     break;
                 default:
@@ -599,6 +644,75 @@ namespace GeoXWrapperTest.Helper
             }
 
             return crxStDict;
+        }
+
+        public static List<CrxStInfoF3S> CreateF3sIntrsctList(IEnumerable<CrossStreetInfo> crxStList, Geo geoCaller)
+        {
+            if (!crxStList.Any())
+                return Enumerable.Empty<CrxStInfoF3S>().ToList();
+
+            Wa1 wa1_dl = new Wa1
+            {
+                in_func_code = "DL",
+                in_platform_ind = "C"
+            };
+
+            List<CrxStInfoF3S> f3sList = new List<CrxStInfoF3S>();
+
+            foreach (CrossStreetInfo crxStInfo in crxStList.ToList())
+            {
+                if (string.IsNullOrWhiteSpace(crxStInfo.node_num))
+                    break;
+
+                //Use FDL to find intersecting streets
+                for (int i = 0; i < 5; i++)
+                {
+                    wa1_dl.out_b7sc_list[i] = crxStInfo.xstr_b7sc_list[i];
+                }
+                geoCaller.GeoCall(ref wa1_dl);
+
+                CrxStInfoF3S f3sCrxSt = new CrxStInfoF3S
+                {
+                    out_intersecting_street = wa1_dl.out_stname_list[0].Trim(),
+                    out_second_intersecting_street = wa1_dl.out_stname_list[1].Trim(),
+                    out_third_intersecting_street = wa1_dl.out_stname_list[2].Trim(),
+                    out_fourth_intersecting_street = wa1_dl.out_stname_list[3].Trim(),
+                    out_fifth_intersecting_street = wa1_dl.out_stname_list[4].Trim(),
+                    out_xstr_cnt = crxStInfo.xstr_cnt, //intersecting st count
+                    out_distance = string.IsNullOrWhiteSpace(crxStInfo.distance.TrimStart('0'))
+                        ? "0"
+                        : crxStInfo.distance.TrimStart('0'),
+                    out_node_num = crxStInfo.node_num
+                };
+
+                //stringified gap flag
+                string flagCode = string.Empty;
+                switch (crxStInfo.gap_flag)
+                {
+                    case "C":
+                        flagCode = "Combined Seg";
+                        break;
+                    case "G":
+                        flagCode = "Gap";
+                        break;
+                    case "D":
+                        flagCode = "Dog Leg";
+                        break;
+                    case "N":
+                        flagCode = "New";
+                        break;
+                }
+                f3sCrxSt.out_gap_flag = flagCode;
+
+                //final processing on out_intersecting_street
+                f3sCrxSt.out_intersecting_street = string.IsNullOrWhiteSpace(f3sCrxSt.out_intersecting_street) && !string.IsNullOrWhiteSpace(f3sCrxSt.out_distance)
+                    ? "NON STREET FEATURE"
+                    : f3sCrxSt.out_intersecting_street;
+
+                f3sList.Add(f3sCrxSt);
+            }
+
+            return f3sList;
         }
     }
 }

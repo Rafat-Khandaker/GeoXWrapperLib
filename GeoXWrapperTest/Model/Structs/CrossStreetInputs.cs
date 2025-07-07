@@ -16,7 +16,7 @@ namespace GeoXWrapperTest.Model.Structs
         public string Borough3 { get; set; }
         public string SecondCrossStreet { get; set; }
         public string CompassDirection { get; set; }
-        public CrossStreetInputs(string boro, string onSt, string fstCrx, string scdCrx, string dir)
+        public CrossStreetInputs(string boro, string onSt, string fstCrx, string scdCrx, string dir = null)
         {
             Borough1 = boro;
             OnStreet = onSt;
